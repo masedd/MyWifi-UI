@@ -1,7 +1,7 @@
-# SMyWifi-UI Template
+# MyWifi-UI Template
 
 # Demo
-- [MyWifi-UI](https://masedd.github.io/MyWifi-UI/)
+- [MyWifi-UI](https://demoagn.netlify.app)
 
 # Features
 - Bootstrap 5
